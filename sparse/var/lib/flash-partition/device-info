@@ -1,0 +1,8 @@
+
+CPUCHECK_STRING="aarch64"
+
+PART_1="BOOT"
+
+PART_REAL_1="mmcblk0p10"
+
+PART_I="1"

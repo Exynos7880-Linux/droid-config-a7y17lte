@@ -40,6 +40,7 @@ Requires: mapplauncherd-booster-silica-qt5-media
 # Sailfish OS CSD tool for hardware testing
 Requires: csd
 Requires: jolla-settings-system-flashlight
+Requires: gnu-bash
 
 # Add pre-installed some jolla/sailfish apps
 Requires: sailfish-office
